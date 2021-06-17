@@ -1,2 +1,2 @@
-See this project live by using the below link:-
+See this project live by using this link:-
 https://sjeevankumar.github.io/Fitness-Website/
